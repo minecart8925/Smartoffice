@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.exe
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.pdb
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.xml
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart_office.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart_office.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.exe
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.xml
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.pdb
+c:\users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart_office.SplashScreen1.resources
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart_office.AboutBox1.resources
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.exe.manifest
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\Smart office.application
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.exe.manifest
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart office.application
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\bin\Debug\ko-KR\Smart office.resources.dll
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\Smart_office.Form1.ko-KR.resources
+C:\Users\user\documents\visual studio 2017\Projects\Smart office\Smart office\obj\Debug\ko-KR\Smart office.resources.dll
